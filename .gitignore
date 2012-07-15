@@ -1,0 +1,6 @@
+/source
+Gemfile
+Gemfile.*
+config.rb
+/.bundle
+/.bundle/*
