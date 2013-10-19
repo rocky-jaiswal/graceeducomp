@@ -1,1 +1,0 @@
-$("#myCarousel").carousel({interval:8e3}),$("#about-details-link").click(function(){$("#aboutModal").modal()}),$("#what-details-link").click(function(){$("#whatModal").modal()});
